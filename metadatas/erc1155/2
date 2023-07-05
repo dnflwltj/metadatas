@@ -1,0 +1,40 @@
+{
+  "name": "KYH.DDORI.INC #2",
+  "description": "The first bridgeable NFT series of ABC.INC which will be with kthulu wallet and chainbridge forever.",
+  "image": "https://raw.githubusercontent.com/dnflwltj/metadatas/main/metadatas/erc721/2.jpeg",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "background_02"
+    },
+    {
+      "trait_type": "Base",
+      "value": "base_02"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "shoes_02"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "pants_02"
+    },
+    {
+      "trait_type": "Tee",
+      "value": "padding_02"
+    },
+    {
+      "trait_type": "Cap",
+      "value": "cap_02"
+    },
+    {
+      "trait_type": "Sunglasses",
+      "value": "snglasses_02"
+    },
+    {
+      "trait_type": "Acc",
+      "value": "none"
+    }
+  ]
+}
