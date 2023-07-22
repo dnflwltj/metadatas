@@ -6,31 +6,31 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "background_00"
+      "value": "background_06"
     },
     {
       "trait_type": "Base",
-      "value": "base_00"
+      "value": "base_06"
     },
     {
       "trait_type": "Shoes",
-      "value": "shoes_00"
+      "value": "shoes_06"
     },
     {
       "trait_type": "Pants",
-      "value": "pants_00"
+      "value": "pants_06"
     },
     {
       "trait_type": "Tee",
-      "value": "padding_00"
+      "value": "padding_06"
     },
     {
       "trait_type": "Cap",
-      "value": "cap_00"
+      "value": "cap_06"
     },
     {
       "trait_type": "Sunglasses",
-      "value": "snglasses_00"
+      "value": "snglasses_06"
     },
     {
       "trait_type": "Acc",
