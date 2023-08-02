@@ -1,6 +1,7 @@
 #metadatas
 
 #BASEURL
-https://raw.githubusercontent.com/dnflwltj/metadatas/main/metadatas/images/
 
-https://raw.githubusercontent.com/dnflwltj/metadatas/main/metadatas/erc1155/
+ERC721 : https://raw.githubusercontent.com/dnflwltj/metadatas/main/metadatas/erc721/
+
+ERC1155 : https://raw.githubusercontent.com/dnflwltj/metadatas/main/metadatas/erc1155/
